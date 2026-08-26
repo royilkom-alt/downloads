@@ -11,19 +11,19 @@
             <key>kind</key>
             <string>software-package</string>
             <key>url</key>
-            <string>https://dl.ipas.cc/ipas/e157z0.ipa</string>
+            <string>https://applejr.ipadownloads.com/signed/roblox.ipa</string>
           </dict>
           <dict>
             <key>kind</key>
             <string>display-image</string>
             <key>url</key>
-            <string>https://dl.ipas.cc/icons/e157z0-1787633036766.png</string>
+            <string>https://applejr.net/assets/img-local/delta.webp</string>
           </dict>
           <dict>
             <key>kind</key>
             <string>full-size-image</string>
             <key>url</key>
-            <string>https://dl.ipas.cc/icons/e157z0-1787633036766.png</string>
+            <string>https://applejr.net/assets/img-local/delta.webp</string>
           </dict>
         </array>
         <key>metadata</key>
