@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://dl.ipas.cc/ipas/mut7wy.ipa</string>
+					<string>https://github.com/SymaroTeam/DeltaOTA/raw/refs/heads/main/Signed.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,13 +33,15 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-<string>appgamefree.com</string>
-<key>bundle-version</key>
-<string>2.739.687</string>
-<key>kind</key>
-<string>software</string>
-<key>title</key>
-<string>Roblox QT</string>
+				<string>gg.delta.bz</string>
+				<key>bundle-version</key>
+				<string>1.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>platform-identifier</key>
+				<string>com.apple.platform.iphoneos</string>
+				<key>title</key>
+				<string>Delta</string>
 			</dict>
 		</dict>
 	</array>
